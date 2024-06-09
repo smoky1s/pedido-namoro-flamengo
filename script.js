@@ -1,5 +1,5 @@
 function sim() {
-    location.href = "https://www.youtube.com/watch?v=90PttxCCthk";
+    location.href = "https://www.tiktok.com/@acheioaudio/video/7289969617563340037";
     
 }
 function desvia(t) {
